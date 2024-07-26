@@ -1,0 +1,10 @@
+micronaut:
+  application:
+    name: evaluation-micronaut
+  http:
+    services:
+      broker:
+        url: http://localhost:3000
+
+booking:
+  fee: 0.70
