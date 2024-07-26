@@ -1,4 +1,4 @@
-# Simple Quarkus Project
+# Simple Micronaut Project
 
 ### Architecture
 - Java 21
